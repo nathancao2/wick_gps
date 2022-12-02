@@ -3,7 +3,7 @@ import { TileLayer } from 'react-leaflet/TileLayer'
 import { useMap } from 'react-leaflet/hooks'
 import { Marker, Popup} from 'react-leaflet'
 import 'leaflet/dist/leaflet.css' //this one line literally imports the code in the <link> and the <script> tags. so that's how you're supposed to do it?
-// check out maptiler; it would be fun to create my own tileset
+// check out maptiler; it would be fun to create my own tileset 
 
 const center = [33.77690600305485, -118.36135411842548]
 
